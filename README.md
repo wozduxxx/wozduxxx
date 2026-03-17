@@ -28,7 +28,6 @@
 ### 🧬 Engineering & CS:
 <details>
 <summary>Посмотреть проекты на C, Python и WebGL(soon)</summary>
-
 *   **[Console 3D Engine](https://github.com/wozduxxx/ConcoleRayTracing)** (Python) — Рейкастинг, векторы и тени в консоли.
 *   **[Game of Life](https://github.com/wozduxxx/game-of-life)** (C) — Алгоритмы и управление памятью (School 21).
 </details>
