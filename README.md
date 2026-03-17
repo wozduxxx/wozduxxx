@@ -31,9 +31,3 @@
 *   **[Console 3D Engine](https://github.com/wozduxxx/ConcoleRayTracing)** (Python) — Рейкастинг, векторы и тени в консоли.
 *   **[Game of Life](https://github.com/wozduxxx/game-of-life)** (C) — Алгоритмы и управление памятью (School 21).
 </details>
----
-
-### 📫 Как со мной связаться:
-- **Telegram:** @wozduxxx
-- **Email:** dinarg436@gmail.com
-
