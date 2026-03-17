@@ -7,6 +7,7 @@
 
 ### 🛠 Стек:
 **Frontend:** React, TS, Redux Toolkit (RTK Query), SCSS.
+
 **Tools:** Git, Docker, Vite, Webpack.
 
 ---
