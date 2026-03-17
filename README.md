@@ -25,7 +25,7 @@
     *   **Frontend:** React, TypeScript, Redux Toolkit (State management & RTK Query).
     *   **Backend:** Express.js, Node.js.
     *   **Чему научился:** Реализовал авторизацию на JWT, CRUD операции. Весь проект упакован в Docker-контейнеры для быстрого развертывания.
-2.  **[Type-Master](https://github.com/wozduxxx/type-master) — Высокопроизводительный тренажер печати (inspired by MonkeyType)
+2.  **[Type-Master](https://github.com/wozduxxx/type-master)** — Высокопроизводительный тренажер печати (inspired by MonkeyType)
     Проект с фокусом на оптимизацию рендеринга при интенсивном вводе данных.
     *   **Стек:** React, TypeScript, Redux Toolkit, Vite, SCSS Modules.
     *   **Что уже реализовано:**
