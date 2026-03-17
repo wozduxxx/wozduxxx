@@ -1,76 +1,36 @@
 # Привет! Я Динар
 ### Frontend Developer
 
-Я создаю удобные интерфейсы и стремлюсь писать чистый, типизированный код. Сейчас активно изучаю новые для себя технологии и внедряю в проекты.
+Кожу на TypeScript/React, увлекаюсь низкоуровневой графикой и оптимизацией. Сейчас активно изучаю новые для себя технологии и внедряю в проекты.
 
 ---
 
-### 🛠 Стек технологий:
-- **Core:** JavaScript (ES6+), TypeScript
-- **Frameworks:** React (Hooks, Context API)
-- **State Management:** Redux Toolkit (Slices, RTK Query)
-- **Styling:** CSS Modules, SCSS, BEM
-- **Tools:** Git, Vite, Chrome DevTools
+### 🛠 Стек:
+**Frontend:** React, TS, Redux Toolkit (RTK Query), SCSS.
+**Tools:** Git, Docker, Vite, Webpack.
+
+---
+
+### 🚀 Мои ключевые проекты:
+**[Social Network](https://github.com/wozduxxx/social-network-client)** — Фуллстак приложение на React, TypeScript, Redux Toolkit, Express.
+**[Type-Master](https://github.com/wozduxxx/type-master)** — Тренажер печати. (фокус на производительности).
+**[Tasty Pizza](https://github.com/wozduxxx/react-pizza)** — Добавил тесты на логику корзины, Sceleton loading.
 
 ---
 
 ### 🌍 Open Source & Community:
 Я верю в силу комьюнити и стараюсь вносить свой вклад:
-*   **[MDN Web Docs](https://github.com/mdn/translated-content/pull/32961)** — Внес необходимые изменения в русскоязычную документацию, чтобы она соответствовала новой версии, прошел ревью мейнтейнеров Mozilla.
+*   **[MDN Web Docs](https://github.com/mdn/translated-content/pull/32961)** — Внес необходимые изменения в русскоязычную документацию, чтобы она соответствовала новой версии.
 
 ---
 
-### 🚀 Мои ключевые проекты:
-1.  **[Social Network](https://github.com/wozduxxx/social-network-client)** — Фуллстак приложение на React, TypeScript, Redux Toolkit, Express. 
-    *   **Frontend:** React, TypeScript, Redux Toolkit (State management & RTK Query).
-    *   **Backend:** Express.js, Node.js.
-    *   **Чему научился:** Реализовал авторизацию на JWT, CRUD операции. Весь проект упакован в Docker-контейнеры для быстрого развертывания.
-2.  **[Type-Master](https://github.com/wozduxxx/type-master)** — Высокопроизводительный тренажер печати (inspired by MonkeyType)
-    Проект с фокусом на оптимизацию рендеринга при интенсивном вводе данных.
-    *   **Стек:** React, TypeScript, Redux Toolkit, Vite, SCSS Modules.
-    *   **Что уже реализовано:**
-        *   Ядро логики обработки ввода с расчетом **WPM** (слов в минуту) и **Accuracy** в реальном времени.
-        *   Система кастомной каретки и динамической подсветки символов (`correct` / `wrong` / `current`).
-        *   Архитектура на **RTK Slices** для управления состоянием игровой сессии.
-    *   **В планах (Roadmap):**
-        *   [ ] **Fullstack:** Разработка API на Express + MongoDB для сохранения личных рекордов и статистики.
-        *   [ ] **Analytics:** Визуализация прогресса пользователя с помощью графиков (Recharts).
-        *   [ ] **Social:** Глобальный лидерборд.
-    *   **Главный челлендж:** Минимизация ререндеров при каждом нажатии клавиши в массиве из 100+ слов.
-3.  **[Tasty Pizza](https://github.com/wozduxxx/react-pizza)** — 
-    *   *Стек:* React, SCSS Modules, Redux Toolkit, React Router v6.
-    *   **Чему научился:**: Добавил тесты на логику корзины, Sceleton loading.
+### 🧬 Engineering & CS:
+<details>
+<summary>Посмотреть проекты на C, Python и WebGL(soon)</summary>
 
----
-
-### 🧬 CS & Low-level Projects:
-
-#### [Conway's Game of Life](ссылка_на_репо) — Симулятор жизни на языке С
-Проект выполнен в рамках интенсивного обучения («Бассейна») Школы 21.
-
-*   **Стек:** C (Standard C99), работа с графической библиотекой ncurses.
-*   **Ключевые навыки:** 
-    *   Управление памятью (malloc/free), отсутствие утечек (проверено через Valgrind).
-    *   Реализация алгоритма клеточного автомата с двумерными массивами.
-    *   Оптимизация циклов для отрисовки состояний в реальном времени.
-    *   Реализован интерактивный режим, благодаря которому можно создать свое поле(ПКМ-создать/удалить клетку) и сразу запустить на нем игру
-*   **Результат:** Полностью рабочая визуализация с возможностью загрузки начальных пресетов из файлов.
-
----
-
-### 📐 Math & Computer Graphics:
-
-#### [Console 3D Engine](https://github.com/wozduxxx/ConcoleRayTracing) — Рендерер на Python (Raycasting)
-Проект по созданию псевдо-3D графики в консоли с использованием символьной отрисовки.
-
-*   **Технологии:** Python (Pure Math, без тяжелых библиотек), векторы, тригонометрия.
-*   **Реализовано:**
-    *   **Математическое ядро:** Классы для работы с векторами (сложение, скалярное произведение, нормализация).
-    *   **Освещение и тени:** Реализация базовой модели освещения и расчет теней для разных фигур.
-    *   **Отражения:** Алгоритм расчета отраженных лучей для зеркальных поверхностей.
-    *   **Классы фигур:** Система ООП для работы со сферами, плоскостями и другими примитивами.
-*   **Главный челлендж:** Оптимизация вычислений для отрисовки кадра в реальном времени через консольный вывод.
-
+*   **[Console 3D Engine](https://github.com/wozduxxx/ConcoleRayTracing)** (Python) — Рейкастинг, векторы и тени в консоли.
+*   **[Game of Life](https://github.com/wozduxxx/game-of-life)** (C) — Алгоритмы и управление памятью (School 21).
+</details>
 ---
 
 ### 📫 Как со мной связаться:
