@@ -76,5 +76,3 @@
 - **Telegram:** @wozduxxx
 - **Email:** dinarg436@gmail.com
 
----
-![Cтатистика гитхаба](https://github-readme-stats.vercel.app)
