@@ -12,19 +12,19 @@
 
 ---
 
-### 🚀 Мои ключевые проекты:
+### Мои ключевые проекты:
 * **[Social Network](https://github.com/wozduxxx/social-network-client)** — Фуллстак приложение на React, TypeScript, Redux Toolkit, Express.
 * **[Type-Master](https://github.com/wozduxxx/type-master)** — Тренажер печати. (фокус на производительности).
 * **[Tasty Pizza](https://github.com/wozduxxx/react-pizza)** — Добавил тесты на логику корзины, Sceleton loading.
 
 ---
 
-### 🌍 Open Source & Community:
+### Open Source & Community:
 *   **[MDN Web Docs](https://github.com/mdn/translated-content/pull/32961)** — Внес необходимые изменения в русскоязычную документацию, чтобы она соответствовала новой версии.
 
 ---
 
-### 🧬 Engineering & CS:
+### Engineering & CS:
 <details>
 <summary>Посмотреть проекты на C, Python и WebGL(soon)</summary>
   
